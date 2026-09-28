@@ -15,3 +15,9 @@ different ingestion methods available through LakeFlow Connect, including batch,
 <img width="2585" height="1497" alt="image" src="https://github.com/user-attachments/assets/66daefe9-6b42-42bf-a8d2-1c9bd631ce72" />
 
 <img width="2397" height="855" alt="image" src="https://github.com/user-attachments/assets/475a9a72-5b24-4948-a152-5e1ff1fe74d2" />
+
+<img width="3475" height="1327" alt="image" src="https://github.com/user-attachments/assets/84be08ac-2683-46a9-978a-7c042363001f" />
+
+<img width="2890" height="1820" alt="image" src="https://github.com/user-attachments/assets/f752299a-66d1-4e5f-b7c0-8d613493c77a" />
+
+<img width="3140" height="1397" alt="image" src="https://github.com/user-attachments/assets/1a63a6af-7482-48e7-a79e-07d01bc3e628" />
